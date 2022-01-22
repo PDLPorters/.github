@@ -4,7 +4,7 @@ provides a DSL called PP for easily calling C code with automatic loops that
 can broadcast along any dimension.
 
 There are PDL bindings to numerical libraries such as
-[BLAS/LINPACK](https://github.com/PDLPorters/pdl-linearalgebra),
+[BLAS/LAPACK](https://github.com/PDLPorters/pdl-linearalgebra),
 [FFTW3](https://github.com/PDLPorters/pdl-fftw3),
 and
 [GSL](https://github.com/PDLPorters/pdl).
