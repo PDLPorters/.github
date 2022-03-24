@@ -7,7 +7,7 @@ There are PDL bindings to numerical libraries such as
 [BLAS/LAPACK](https://github.com/PDLPorters/pdl-linearalgebra),
 [FFTW3](https://github.com/PDLPorters/pdl-fftw3),
 and
-[GSL](https://github.com/PDLPorters/pdl).
+[GSL](https://github.com/PDLPorters/pdl),
 and plotting tools such as
 [PGPLOT](https://github.com/PDLPorters/pdl/tree/master/Graphics/PGPLOT),
 [PLplot](https://github.com/PDLPorters/pdl-graphics-plplot),
